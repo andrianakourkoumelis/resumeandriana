@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+padding: 5;
+}
+
+body {
+  font-family: 'Bakersville'sans-serif;
+  line-height: 1.6;
+  background-color: lightpink;
+  padding: 5px;
+}
+
+.container {
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  background:hotpink;
+  color: ghostwhite;
+ }
+
+header h1 {
+  margin-bottom: 5px;
+  font-size: 36px;
+}
+
+header p {
+  font-size: 20px;}
+
+.section {
+  margin: 25px 0;
+}
+
+.section h2 {
+  background-color: floralwhite;
+  margin: auto;
+}
+
+.content-block {
+  background-color: floralwhite;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.content-block h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+
+ol {
+  margin-inline: auto;
+}
